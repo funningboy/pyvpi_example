@@ -1,0 +1,8 @@
+Python-VPI -- Python interface to IEEE 1364-2005 Verilog VPI
+========================================================
+
+Python VPI is a library that lets Python programs access the
+entire IEEE 1364-2005 Verilog VPI interface supported by
+major Verilog simulators today.  It also serves as
+platform for unit testing, rapid prototyping, and
+systems integration of Verilog modules through Python.
